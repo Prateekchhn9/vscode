@@ -1,6 +1,6 @@
 # Import necessary modules
-import module1
-import module2
+import numpy
+import pylance
 
 # Define global variables
 # Define functions
