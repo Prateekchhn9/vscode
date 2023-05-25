@@ -3,7 +3,6 @@ import module1
 import module2
 
 # Define global variables
-
 # Define functions
 
 def main():
